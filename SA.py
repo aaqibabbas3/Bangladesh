@@ -103,8 +103,8 @@ jalan('\033[1;96m▬▬▬▬▬▬▬▬▬90%')
 jalan('\033[1;96m▬▬▬▬▬▬▬▬▬100%')
 print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mRana.Aahil\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "SA"
+CorrectPassword = "SA"
 
 loop = 'true'
 while (loop == 'true'):
